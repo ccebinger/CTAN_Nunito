@@ -1,0 +1,492 @@
+
+
+############################################################################
+
+
+[2021-01-15 16:47:25]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=nunito -encoding=OT1,T1,TS1,LY1 Nunito-Black.otf Nunito-BlackItalic.otf Nunito-Bold.otf Nunito-BoldItalic.otf Nunito-ExtraBold.otf Nunito-ExtraBoldItalic.otf Nunito-ExtraLight.otf Nunito-ExtraLightItalic.otf Nunito-Italic.otf Nunito-Light.otf Nunito-LightItalic.otf Nunito-Regular.otf Nunito-SemiBold.otf Nunito-SemiBoldItalic.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               rm (serif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    Nunito-Black.otf
+        Name:       Nunito-Black
+        Family:     Nunito
+        Subfamily:  
+        Weight:     black (900)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-BlackItalic.otf
+        Name:       Nunito-BlackItalic
+        Family:     Nunito
+        Subfamily:  
+        Weight:     black (900)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-Bold.otf
+        Name:       Nunito-Bold
+        Family:     Nunito
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-BoldItalic.otf
+        Name:       Nunito-BoldItalic
+        Family:     Nunito
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-ExtraBold.otf
+        Name:       Nunito-ExtraBold
+        Family:     Nunito
+        Subfamily:  
+        Weight:     extrabold (800)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-ExtraBoldItalic.otf
+        Name:       Nunito-ExtraBoldItalic
+        Family:     Nunito
+        Subfamily:  
+        Weight:     extrabold (800)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-ExtraLight.otf
+        Name:       Nunito-ExtraLight
+        Family:     Nunito
+        Subfamily:  
+        Weight:     extralight (200)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-ExtraLightItalic.otf
+        Name:       Nunito-ExtraLightItalic
+        Family:     Nunito
+        Subfamily:  
+        Weight:     extralight (200)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-Italic.otf
+        Name:       Nunito-Italic
+        Family:     Nunito
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-Light.otf
+        Name:       Nunito-Light
+        Family:     Nunito
+        Subfamily:  
+        Weight:     light (300)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-LightItalic.otf
+        Name:       Nunito-LightItalic
+        Family:     Nunito
+        Subfamily:  
+        Weight:     light (300)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-Regular.otf
+        Name:       Nunito-Regular
+        Family:     Nunito
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-SemiBold.otf
+        Name:       Nunito-SemiBold
+        Family:     Nunito
+        Subfamily:  
+        Weight:     semibold (600)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+    Nunito-SemiBoldItalic.otf
+        Name:       Nunito-SemiBoldItalic
+        Family:     Nunito
+        Subfamily:  
+        Weight:     semibold (600)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, calt, case, ccmp, dnom, frac, kern, liga, mark, mkmk, numr, onum, ordn, salt, sinf, ss01, ss02, subs, sups
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  
+    el  =>  extralight
+    l   =>  light
+    sl  =>  
+    m   =>  regular
+    sb  =>  semibold
+    b   =>  bold
+    eb  =>  extrabold
+    ub  =>  black
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    Nunito-Black.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            LY1     TOsF    n       kern, liga, onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            OT1     TOsF    n       kern, liga, onum
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            T1      TOsF    n       kern, liga, onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-BlackItalic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      kern, liga
+            LY1     TOsF    it      kern, liga, onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      kern, liga
+            OT1     TOsF    it      kern, liga, onum
+            T1      Sup     it      sups
+            T1      TLF     it      kern, liga
+            T1      TOsF    it      kern, liga, onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            LY1     TOsF    n       kern, liga, onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            OT1     TOsF    n       kern, liga, onum
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            T1      TOsF    n       kern, liga, onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-BoldItalic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      kern, liga
+            LY1     TOsF    it      kern, liga, onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      kern, liga
+            OT1     TOsF    it      kern, liga, onum
+            T1      Sup     it      sups
+            T1      TLF     it      kern, liga
+            T1      TOsF    it      kern, liga, onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-ExtraBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            LY1     TOsF    n       kern, liga, onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            OT1     TOsF    n       kern, liga, onum
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            T1      TOsF    n       kern, liga, onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-ExtraBoldItalic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      kern, liga
+            LY1     TOsF    it      kern, liga, onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      kern, liga
+            OT1     TOsF    it      kern, liga, onum
+            T1      Sup     it      sups
+            T1      TLF     it      kern, liga
+            T1      TOsF    it      kern, liga, onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-ExtraLight.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            LY1     TOsF    n       kern, liga, onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            OT1     TOsF    n       kern, liga, onum
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            T1      TOsF    n       kern, liga, onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-ExtraLightItalic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      kern, liga
+            LY1     TOsF    it      kern, liga, onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      kern, liga
+            OT1     TOsF    it      kern, liga, onum
+            T1      Sup     it      sups
+            T1      TLF     it      kern, liga
+            T1      TOsF    it      kern, liga, onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-Italic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      kern, liga
+            LY1     TOsF    it      kern, liga, onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      kern, liga
+            OT1     TOsF    it      kern, liga, onum
+            T1      Sup     it      sups
+            T1      TLF     it      kern, liga
+            T1      TOsF    it      kern, liga, onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-Light.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            LY1     TOsF    n       kern, liga, onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            OT1     TOsF    n       kern, liga, onum
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            T1      TOsF    n       kern, liga, onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-LightItalic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      kern, liga
+            LY1     TOsF    it      kern, liga, onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      kern, liga
+            OT1     TOsF    it      kern, liga, onum
+            T1      Sup     it      sups
+            T1      TLF     it      kern, liga
+            T1      TOsF    it      kern, liga, onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            LY1     TOsF    n       kern, liga, onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            OT1     TOsF    n       kern, liga, onum
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            T1      TOsF    n       kern, liga, onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-SemiBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            LY1     TOsF    n       kern, liga, onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            OT1     TOsF    n       kern, liga, onum
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            T1      TOsF    n       kern, liga, onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
+
+    ------------------------------------------------------------------------
+
+    Nunito-SemiBoldItalic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      kern, liga
+            LY1     TOsF    it      kern, liga, onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      kern, liga
+            OT1     TOsF    it      kern, liga, onum
+            T1      Sup     it      sups
+            T1      TLF     it      kern, liga
+            T1      TOsF    it      kern, liga, onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
